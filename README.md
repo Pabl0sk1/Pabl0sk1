@@ -58,6 +58,7 @@ Aplicación móvil para gestión de listas de compras con marcado en tiempo real
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/pablo-m-ocampos/)
 [![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:pablo.mk.ocampos@gmail.com)
 [![My Skills](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/Pabl0sk1)
+[![My Skills](https://skillicons.dev/icons?i=discord&theme=light)](https://discordapp.com/users/918699279806255165)
 
 ## 🌱 Actualmente aprendiendo
 - Desarrollo web
