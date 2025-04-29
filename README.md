@@ -1,8 +1,9 @@
 # 👋 Hola! Soy Pablo Ocampos
 
 ## 💻 Desarrollador de Software | 🎓 Estudiante de Análisis de Sistemas
-
-Desarrollador con experiencia en aplicaciones empresariales y sistemas de gestión. Apasionado por crear soluciones eficientes y escalables utilizando diversas tecnologías. Actualmente cursando la Licenciatura en Análisis de Sistemas en la Universidad Nacional del Este.
+<p align="justify">
+  Desarrollador con experiencia en aplicaciones empresariales y sistemas de gestión. Apasionado por crear soluciones eficientes y escalables utilizando diversas tecnologías. Actualmente cursando la carrera de Lic. en Análisis de Sistemas en la Universidad Nacional del Este de la Facultad Politécnica.
+</p>
 
 ## 🛠️ Stack Tecnológico
 
