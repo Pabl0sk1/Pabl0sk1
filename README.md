@@ -21,7 +21,7 @@
 [![My Skills](https://skillicons.dev/icons?i=angular&theme=light)](https://angular.io/)
 [![My Skills](https://skillicons.dev/icons?i=nodejs&theme=light)](https://nodejs.org/)
 [![My Skills](https://skillicons.dev/icons?i=vite&theme=light)](https://vite.dev/)
-
+<a href="https://ionicframework.com/"><img alt="Ionic" height="47" width="47" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Ionic.svg"></a>
 
 ### Bases de datos:
 [![My Skills](https://skillicons.dev/icons?i=postgres&theme=light)](https://www.postgresql.org/)
