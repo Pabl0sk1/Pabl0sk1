@@ -33,20 +33,25 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode&theme=light)](https://code.visualstudio.com/)
 [![My Skills](https://skillicons.dev/icons?i=postman&theme=light)](https://www.postman.com/)
 
-## 🚀 Proyectos Destacados
+## 🚀 Proyectos
+
+### Sitio Web de Comida Rápida (Landing Page Interactiva)
+Sitio web atractivo e interactivo para un negocio ficticio de comida rápida. Incluye menú dinámico, secciones informativas, horarios, mapa embebido de ubicación y navegación responsive con swiper.
+- **Tecnologías:** HTML, CSS, JavaScript
+- **Repositorio:** https://github.com/Pabl0sk1/fast-food
 
 ### Sistema de Gestión para Ropería Local
 Sistema completo para negocio real de Hernandarias con autenticación, roles, gestión de inventario, compras, alquileres y ventas.
-- **Tecnologías**: PostgreSQL, React, Spring Boot, Bootstrap
+- **Tecnologías:** PostgreSQL, React, Spring Boot, Bootstrap
 
 ### Sistema de Gestión de Mueblería
 Sistema CRUD con módulos de inventario y registro de ventas.
-- **Tecnologías**: PostgreSQL, React, Spring Boot, Bootstrap
+- **Tecnologías:** PostgreSQL, React, Spring Boot, Bootstrap
 
 ### Lista de Compras Inteligente (App Móvil)
 Aplicación móvil para gestión de listas de compras con marcado en tiempo real.
 - **Tecnologías**: Ionic, Angular, Firestore
-- **Repo**: https://github.com/Pabl0sk1/lista-compras
+- **Repositorio:** https://github.com/Pabl0sk1/lista-compras
 
 ## 📊 Estadísticas GitHub
 
