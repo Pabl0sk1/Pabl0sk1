@@ -50,7 +50,7 @@ Sistema CRUD con módulos de inventario y registro de ventas.
 
 ### Lista de Compras Inteligente (App Móvil)
 Aplicación móvil para gestión de listas de compras con marcado en tiempo real.
-- **Tecnologías**: Ionic, Angular, Firestore
+- **Tecnologías:** Ionic, Angular, Firestore
 - **Repositorio:** https://github.com/Pabl0sk1/lista-compras
 
 ## 📊 Estadísticas GitHub
