@@ -45,6 +45,7 @@
 
 ### Sitio Web de Comida Rápida (Landing Page Interactiva)
 <p align="justify">Sitio web atractivo e interactivo para un negocio ficticio de comida rápida. Incluye menú dinámico, secciones informativas, horarios, mapa embebido de ubicación y navegación responsive con swiper.</p>
+
 - **Tecnologías:** HTML, CSS, JavaScript
 - **Repositorio:** https://github.com/Pabl0sk1/fast-food
 
