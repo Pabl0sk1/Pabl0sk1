@@ -10,6 +10,7 @@
 ### Lenguajes de programación:
 [![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://www.java.com/)
 [![My Skills](https://skillicons.dev/icons?i=js&theme=light)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![My Skills](https://skillicons.dev/icons?i=typescript&theme=light)](https://www.typescriptlang.org/)
 [![My Skills](https://skillicons.dev/icons?i=html&theme=light)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![My Skills](https://skillicons.dev/icons?i=css&theme=light)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![My Skills](https://skillicons.dev/icons?i=c&theme=light)](https://en.cppreference.com/w/c/language)
@@ -18,6 +19,7 @@
 [![My Skills](https://skillicons.dev/icons?i=spring&theme=light)](https://spring.io/)
 [![My Skills](https://skillicons.dev/icons?i=react&theme=light)](https://reactjs.org/)
 [![My Skills](https://skillicons.dev/icons?i=bootstrap&theme=light)](https://getbootstrap.com/)
+[![My Skills](https://skillicons.dev/icons?i=sass&theme=light)](https://sass-lang.com/)
 [![My Skills](https://skillicons.dev/icons?i=angular&theme=light)](https://angular.io/)
 [![My Skills](https://skillicons.dev/icons?i=nodejs&theme=light)](https://nodejs.org/)
 [![My Skills](https://skillicons.dev/icons?i=vite&theme=light)](https://vite.dev/)
