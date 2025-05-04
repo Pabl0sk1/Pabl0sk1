@@ -19,10 +19,12 @@
 [![My Skills](https://skillicons.dev/icons?i=spring&theme=light)](https://spring.io/)
 [![My Skills](https://skillicons.dev/icons?i=react&theme=light)](https://reactjs.org/)
 [![My Skills](https://skillicons.dev/icons?i=bootstrap&theme=light)](https://getbootstrap.com/)
+[![My Skills](https://skillicons.dev/icons?i=tailwind&theme=light)](https://tailwindcss.com/)
 [![My Skills](https://skillicons.dev/icons?i=sass&theme=light)](https://sass-lang.com/)
 [![My Skills](https://skillicons.dev/icons?i=angular&theme=light)](https://angular.io/)
 [![My Skills](https://skillicons.dev/icons?i=nodejs&theme=light)](https://nodejs.org/)
 [![My Skills](https://skillicons.dev/icons?i=vite&theme=light)](https://vite.dev/)
+[![My Skills](https://skillicons.dev/icons?i=astro&theme=light)](https://astro.build/)
 <a href="https://ionicframework.com/"><img alt="Ionic" height="47" width="47" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Ionic.svg"></a>
 
 ### Bases de datos:
