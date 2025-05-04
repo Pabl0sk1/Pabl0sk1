@@ -54,15 +54,18 @@
 - **Repositorio:** https://github.com/Pabl0sk1/fast-food
 
 ### Sistema de Gestión para Ropería Local
-Sistema completo para negocio real de Hernandarias con autenticación, roles, gestión de inventario, compras, alquileres y ventas.
+<p align="justify">Sistema completo para negocio real de Hernandarias con autenticación, roles, gestión de inventario, compras, alquileres y ventas.</p>
+
 - **Tecnologías:** PostgreSQL, React, Spring Boot, Bootstrap
 
 ### Sistema de Gestión de Mueblería
-Sistema CRUD con módulos de inventario y registro de ventas.
+<p align="justify">Sistema CRUD con módulos de inventario y registro de ventas.</p>
+
 - **Tecnologías:** PostgreSQL, React, Spring Boot, Bootstrap
 
 ### Lista de Compras Inteligente (App Móvil)
-Aplicación móvil para gestión de listas de compras con marcado en tiempo real.
+<p align="justify">Aplicación móvil para gestión de listas de compras con marcado en tiempo real.</p>
+
 - **Tecnologías:** Ionic, Angular, Firestore
 - **Repositorio:** https://github.com/Pabl0sk1/lista-compras
 
