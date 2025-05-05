@@ -56,12 +56,12 @@
 ### Sistema de Gestión para Ropería Local
 <p align="justify">Sistema completo para negocio real de Hernandarias con autenticación, roles, gestión de inventario, compras, alquileres y ventas.</p>
 
-- **Tecnologías:** PostgreSQL, React, Spring Boot, Bootstrap
+- **Tecnologías:** PostgreSQL, HMTL, JavaScript, React, CSS, Bootstrap, Java, Spring Boot
 
 ### Sistema de Gestión de Mueblería
 <p align="justify">Sistema CRUD con módulos de inventario y registro de ventas.</p>
 
-- **Tecnologías:** PostgreSQL, React, Spring Boot, Bootstrap
+- **Tecnologías:** PostgreSQL, HMTL, JavaScript, React, CSS, Bootstrap, Java, Spring Boot
 - **Repositorio:** https://github.com/Pabl0sk1/muebleria-proyecto
 
 ### Lista de Compras Inteligente (App Móvil)
