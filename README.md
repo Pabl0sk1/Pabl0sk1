@@ -67,7 +67,7 @@
 ### Lista de Compras Inteligente (App Móvil)
 <p align="justify">Aplicación móvil para gestión de listas de compras con marcado en tiempo real.</p>
 
-- **Tecnologías:** Ionic, Angular, Firestore
+- **Tecnologías:** Ionic, Angular, Firestore, TypeScript, HTML, SASS
 - **Repositorio:** https://github.com/Pabl0sk1/lista-compras
 
 ## 📊 Estadísticas GitHub
