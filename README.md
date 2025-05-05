@@ -47,28 +47,28 @@
 
 ## 🚀 Proyectos
 
-### Sitio Web de Comida Rápida (Landing Page Interactiva)
-<p align="justify">Sitio web atractivo e interactivo para un negocio ficticio de comida rápida. Incluye menú dinámico, secciones informativas, horarios, mapa embebido de ubicación y navegación responsive con swiper.</p>
-
-- **Tecnologías:** HTML, CSS, JavaScript
-- **Repositorio:** https://github.com/Pabl0sk1/fast-food
-
-### Sistema de Gestión para Ropería Local
-<p align="justify">Sistema completo para negocio real de Hernandarias con autenticación, roles, gestión de inventario, compras, alquileres y ventas.</p>
-
-- **Tecnologías:** PostgreSQL, HMTL, JavaScript, React, CSS, Bootstrap, Java, Spring Boot
-
 ### Sistema de Gestión de Mueblería
 <p align="justify">Sistema CRUD con módulos de inventario y registro de ventas.</p>
 
 - **Tecnologías:** PostgreSQL, HMTL, JavaScript, React, CSS, Bootstrap, Java, Spring Boot
 - **Repositorio:** https://github.com/Pabl0sk1/muebleria-proyecto
 
+### Sistema de Gestión para Ropería Local
+<p align="justify">Sistema completo para negocio real de Hernandarias con autenticación, roles, gestión de inventario, compras, alquileres y ventas.</p>
+
+- **Tecnologías:** PostgreSQL, HMTL, JavaScript, React, CSS, Bootstrap, Java, Spring Boot
+
 ### Lista de Compras Inteligente (App Móvil)
 <p align="justify">Aplicación móvil para gestión de listas de compras con marcado en tiempo real.</p>
 
 - **Tecnologías:** Ionic, Angular, Firestore, TypeScript, HTML, SASS
 - **Repositorio:** https://github.com/Pabl0sk1/lista-compras
+
+### Sitio Web de Comida Rápida (Landing Page Interactiva)
+<p align="justify">Sitio web atractivo e interactivo para un negocio ficticio de comida rápida. Incluye menú dinámico, secciones informativas, horarios, mapa embebido de ubicación y navegación responsive con swiper.</p>
+
+- **Tecnologías:** HTML, CSS, JavaScript
+- **Repositorio:** https://github.com/Pabl0sk1/fast-food
 
 ## 📊 Estadísticas GitHub
 
