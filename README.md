@@ -62,6 +62,7 @@
 <p align="justify">Sistema CRUD con módulos de inventario y registro de ventas.</p>
 
 - **Tecnologías:** PostgreSQL, React, Spring Boot, Bootstrap
+- **Repositorio:** https://github.com/Pabl0sk1/muebleria-proyecto
 
 ### Lista de Compras Inteligente (App Móvil)
 <p align="justify">Aplicación móvil para gestión de listas de compras con marcado en tiempo real.</p>
