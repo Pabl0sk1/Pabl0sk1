@@ -54,7 +54,7 @@
 - **Repositorio:** https://github.com/Pabl0sk1/muebleria-proyecto
 
 ### Sistema de Gestión para Ropería Local
-<p align="justify">Sistema completo para negocio real local con autenticación de usuario, roles, gestión de inventario, generación de tickets e informes, compras, alquileres y ventas.</p>
+<p align="justify">Sistema completo para negocio real local con autenticación de usuario, roles, gestión de inventario, generación de tickets e informes, registro de compras, alquileres y ventas.</p>
 
 - **Tecnologías:** PostgreSQL, HMTL, JavaScript, React, CSS, Bootstrap, Java, Spring Boot
 
