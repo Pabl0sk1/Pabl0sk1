@@ -1,66 +1,134 @@
-# 👋 Hola! Soy Pablo Ocampos
+<h1 align="center">👋 Hola, soy Pablo M. Ocampos</h1>
 
-## 💻 Desarrollador de Software | 🎓 Estudiante de Análisis de Sistemas
-<p align="justify">
-  Desarrollador con experiencia en aplicaciones empresariales y sistemas de gestión. Apasionado por crear soluciones eficientes y escalables utilizando diversas tecnologías. Actualmente cursando la carrera de Lic. en Análisis de Sistemas en la Universidad Nacional del Este de la Facultad Politécnica.
+<p align="center">
+  💻 Desarrollador Full Stack especializado en sistemas empresariales <br/>
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;Automation;API+Integration;Building+Real+Solutions" />
+</p>
+
+---
+
+## 🚀 Sobre mí
+
+Soy desarrollador de software con experiencia en entornos productivos, enfocado en la creación de sistemas empresariales, automatización de procesos e integración de plataformas. Actualmente desarrollo soluciones tipo ERP, integrando datos contables y administrativos, optimizando operaciones y mejorando la eficiencia en organizaciones reales.
+
+```json
+{
+  "nombre": "Pablo",
+  "apellido": "Mysskoski Ocampos",
+  "email": "pablo.mk.ocampos@gmail.com",
+  "ubicacion": "Hernandarias, Alto Paraná, Paraguay",
+  "rol": "Desarrollador Full Stack",
+  "fecha_nacimiento": "20/03/2003",
+  "educacion": {
+    "carrera": "Licenciatura en Análisis de Sistemas",
+    "institucion": "Universidad Nacional del Este - Facultad Politécnica",
+    "estado": "En curso (9.º semestre)"
+  },
+  "idiomas": [
+    "Español (Nativo)",
+    "Portugués (Fluido)",
+    "Inglés (Intermedio)"
+  ]
+}
+```
+---
 
 ## 🛠️ Stack Tecnológico
 
-### Lenguajes de programación:
-[![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://www.java.com/)
-[![My Skills](https://skillicons.dev/icons?i=php&theme=light)](https://www.php.net/)
-[![My Skills](https://skillicons.dev/icons?i=js&theme=light)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![My Skills](https://skillicons.dev/icons?i=typescript&theme=light)](https://www.typescriptlang.org/)
-[![My Skills](https://skillicons.dev/icons?i=html&theme=light)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![My Skills](https://skillicons.dev/icons?i=css&theme=light)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+### 💻 Lenguajes
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=yellow)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### Frameworks y bibliotecas:
-[![My Skills](https://skillicons.dev/icons?i=spring&theme=light)](https://spring.io/)
-[![My Skills](https://skillicons.dev/icons?i=laravel&theme=light)](https://laravel.com/)
-[![My Skills](https://skillicons.dev/icons?i=react&theme=light)](https://reactjs.org/)
-[![My Skills](https://skillicons.dev/icons?i=bootstrap&theme=light)](https://getbootstrap.com/)
-[![My Skills](https://skillicons.dev/icons?i=tailwind&theme=light)](https://tailwindcss.com/)
-[![My Skills](https://skillicons.dev/icons?i=sass&theme=light)](https://sass-lang.com/)
-[![My Skills](https://skillicons.dev/icons?i=angular&theme=light)](https://angular.io/)
-[![My Skills](https://skillicons.dev/icons?i=nodejs&theme=light)](https://nodejs.org/)
-[![My Skills](https://skillicons.dev/icons?i=vite&theme=light)](https://vite.dev/)
-[![My Skills](https://skillicons.dev/icons?i=astro&theme=light)](https://astro.build/)
+---
 
-### Bases de datos:
-[![My Skills](https://skillicons.dev/icons?i=postgres&theme=light)](https://www.postgresql.org/)
-[![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://www.mysql.com/)
-[![My Skills](https://skillicons.dev/icons?i=firebase&theme=light)](https://firebase.google.com/)
+### ⚙️ Backend
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-EF4135?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### Herramientas:
-[![My Skills](https://skillicons.dev/icons?i=git&theme=light)](https://git-scm.com/)
-[![My Skills](https://skillicons.dev/icons?i=vscode&theme=light)](https://code.visualstudio.com/)
-[![My Skills](https://skillicons.dev/icons?i=postman&theme=light)](https://www.postman.com/)
-[![My Skills](https://skillicons.dev/icons?i=eclipse&theme=light)](https://www.eclipse.org/)
+---
 
-### Sistemas operativos:
-[![My Skills](https://skillicons.dev/icons?i=windows&theme=light)](https://www.microsoft.com/es-es/windows?r=1/)
-[![My Skills](https://skillicons.dev/icons?i=ubuntu&theme=light)](https://ubuntu.com/)
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## 📊 Estadísticas GitHub
+---
 
-![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=Pabl0sk1&show_icons=true&theme=radical)
+### 🗄️ Bases de Datos
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Pabl0sk1&layout=compact&theme=radical)
+---
+
+### 🧰 Herramientas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+
+## 📊 Estadísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pabl0sk1&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pabl0sk1&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📊 Estadísticas Detalladas
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pabl0sk1&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pabl0sk1&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pabl0sk1&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pabl0sk1&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pabl0sk1&theme=tokyonight&utcOffset=-3" />
+</p>
+## 🚀 Coding Vibes
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/programming.gif" width="400"/>
+</p>
+---
+
+## 🐍 Actividad
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pabl0sk1/Pabl0sk1/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
 
 ## 📫 Contacto
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/pablo-m-ocampos/)
-[![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:pablo.mk.ocampos@gmail.com)
-[![My Skills](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/Pabl0sk1)
-[![My Skills](https://skillicons.dev/icons?i=discord&theme=light)](https://discordapp.com/users/918699279806255165)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/pablo-m-ocampos/)
+[![Gmail](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:pablo.mk.ocampos@gmail.com)
+[![GitHub](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/Pabl0sk1)
+[![Discord](https://skillicons.dev/icons?i=discord&theme=light)](https://discordapp.com/users/918699279806255165)
 
-## 🌱 Actualmente aprendiendo
-- Desarrollo web
-- Desarrollo de aplicaciones empresariales
-- Integración de sistemas y APIs
+---
 
-## 🌎 Idiomas
-- Español (Nativo)
-- Portugués (Fluido)
-- Inglés (Intermedio)
+<p align="center">
+  💡 Transformando procesos complejos en soluciones simples y eficientes
+</p>
+
+<p align="center">
+  by Pabl0sk1 ⚡
+</p>
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczR4eWhpbGNib3V1YzZuNjM2dmR1ZWtrM205YjFnNnM2NzY3NWVkdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Xd7QqFPv4IVAz8dnog/giphy.gif" width="100%"/>
+</p>
