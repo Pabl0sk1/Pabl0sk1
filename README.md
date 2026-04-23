@@ -1,9 +1,9 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Pabl0sk1&label=Visitas&color=blueviolet&style=for-the-badge">
   <img src="https://img.shields.io/github/followers/Pabl0sk1?label=Seguidores&style=for-the-badge"><br/>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=¡Hola+a+todos!+👋;+¡Soy+Pablo+M.+Ocampos!;" />
+  <h1>👋 Hola, soy Pablo Ocampos</h1>
   <p>💻 Desarrollador Full Stack especializado en sistemas empresariales</p>
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;Automation;API+Integration;Building+Real+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;Enterprise+Systems;API+Integration;Building+Real+Solutions;Process+Automation" />
 </div>
 
 ---
@@ -15,18 +15,22 @@
 
 ```json
 {
-  "nombre": "Pablo",
-  "apellido": "Mysskoski Ocampos",
+  "role": "Desarrollador Full Stack"
   "email": "pablo.mk.ocampos@gmail.com",
-  "ubicacion": "Hernandarias, Alto Paraná, Paraguay",
-  "rol": "Desarrollador Full Stack",
-  "fecha_nacimiento": "20/03/2003",
-  "educacion": {
-    "carrera": "Licenciatura en Análisis de Sistemas",
-    "institucion": "Universidad Nacional del Este - Facultad Politécnica",
-    "estado": "En curso (9.º semestre)"
+  "location": "Hernandarias, Alto Paraná, Paraguay",
+  "focus": ["Sistemas empresariales", "Automatización de procesos"],
+  "main_stack": {
+    "backend": ["Java", "Spring Boot"],
+    "frontend": ["React"],
+    "database": ["PostgreSQL"]
   },
-  "idiomas": [
+  "experience": "+3 años desarrollando aplicaciones orientadas a problemas reales",
+  "education": {
+    "degree": "Licenciatura en Análisis de Sistemas",
+    "institution": "Universidad Nacional del Este - Facultad Politécnica",
+    "status": "En curso (9.º semestre)"
+  },
+  "languages": [
     "Español (Nativo)",
     "Portugués (Fluido)",
     "Inglés (Intermedio)"
@@ -41,7 +45,7 @@
 
   | Categoría | Tecnologías |
   |----------|------------|
-  | 💻 Lenguajes | <img src="https://skillicons.dev/icons?i=java,js,php,ts&theme=light"> |
+  | 💻 Lenguajes | <img src="https://skillicons.dev/icons?i=java,php,js,ts,html,css&theme=light"> |
   | ⚙️ Frameworks y Bibliotecas | <img src="https://skillicons.dev/icons?i=spring,react,angular,bootstrap,tailwind,laravel,nextjs&theme=light"> |
   | 🗄️ Bases de Datos | <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase&theme=light"> |
   | 🧰 Herramientas | <img src="https://skillicons.dev/icons?i=nodejs,git,github,vscode,eclipse,postman,docker,prisma,npm,vite,astro&theme=light"> |
@@ -92,7 +96,7 @@
 ---
 
 <div align="center">
-  <p>💡 Transformando procesos complejos en soluciones simples y eficientes</p>
+  <i>💡 "Transformando procesos complejos en soluciones simples y eficientes"</i>
   <p>by Pabl0sk1 ⚡</p>
   <img src="https://raw.githubusercontent.com/Pabl0sk1/Pabl0sk1/output/snake-dark.svg" />
 </div>
