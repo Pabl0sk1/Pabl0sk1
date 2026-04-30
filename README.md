@@ -19,10 +19,15 @@
   "email": "pablo.mk.ocampos@gmail.com",
   "location": "Hernandarias, Alto Paraná, Paraguay",
   "focus": ["Sistemas empresariales", "Automatización de procesos"],
-  "main_stack": {
+  "first_stack": {
     "backend": ["Java", "Spring Boot"],
     "frontend": ["React"],
     "database": ["PostgreSQL"]
+  },
+  "second_stack": {
+    "backend": ["PHP", "Laravel"],
+    "frontend": ["TypeScript"],
+    "database": ["MySQL", "Prisma"]
   },
   "experience": "+3 años desarrollando aplicaciones orientadas a problemas reales",
   "education": {
@@ -45,11 +50,11 @@
 
   | Categoría | Tecnologías |
   |----------|------------|
-  | 💻 Lenguajes | <img src="https://skillicons.dev/icons?i=java,php,js,ts,html,css&theme=light"> |
-  | ⚙️ Frameworks y Bibliotecas | <img src="https://skillicons.dev/icons?i=spring,react,angular,bootstrap,tailwind,laravel,nextjs&theme=light"> |
-  | 🗄️ Bases de Datos | <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase&theme=light"> |
-  | 🧰 Herramientas | <img src="https://skillicons.dev/icons?i=nodejs,git,github,vscode,eclipse,postman,docker,prisma,npm,vite,astro&theme=light"> |
-  | 💻 Sistemas Operativos | <img src="https://skillicons.dev/icons?i=windows,ubuntu&theme=light"> |
+  | Backend | <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,nodejs&theme=light"> |
+  | Frontend | <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nextjs,tailwind,bootstrap&theme=light"> |
+  | Databases | <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,prisma&theme=light"> |
+  | DevOps & Deployment | <img src="https://skillicons.dev/icons?i=docker,git,github,netlify&theme=light"> |
+  | Tools & Build Tools | <img src="https://skillicons.dev/icons?i=postman,vscode,eclipse,vite,astro,bash,powershell&theme=light"> |
   
 </div>
 
