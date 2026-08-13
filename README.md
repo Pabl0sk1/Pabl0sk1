@@ -10,7 +10,7 @@
 
 <div align="center">
   <h2>🚀 Sobre mí</h2>
-  <blockquote align="left">Soy desarrollador de software con experiencia en entornos productivos, enfocado en la creación de sistemas empresariales, automatización de procesos e integración de plataformas. Actualmente desarrollo soluciones tipo ERP, integrando datos contables y administrativos, optimizando operaciones y mejorando la eficiencia en organizaciones reales.</blockquote>
+  <blockquote align="left">Soy desarrollador de software con experiencia en entornos productivos, enfocado en la creación de sistemas empresariales, automatización de procesos e integración de plataformas. Actualmente desarrollo soluciones tipo ERP, SaaS, integrando datos contables y administrativos, optimizando operaciones y mejorando la eficiencia en organizaciones reales.</blockquote>
 </div>
 
 ```json
@@ -18,28 +18,8 @@
   "role": "Desarrollador Full Stack"
   "email": "pablo.mk.ocampos@gmail.com",
   "location": "Hernandarias, Alto Paraná, Paraguay",
-  "focus": ["Sistemas empresariales", "Automatización de procesos"],
-  "first_stack": {
-    "backend": ["Java", "Spring Boot"],
-    "frontend": ["React"],
-    "database": ["PostgreSQL"]
-  },
-  "second_stack": {
-    "backend": ["PHP", "Laravel"],
-    "frontend": ["TypeScript"],
-    "database": ["MySQL", "Prisma"]
-  },
-  "experience": "+3 años desarrollando aplicaciones orientadas a problemas reales",
-  "education": {
-    "degree": "Licenciatura en Análisis de Sistemas",
-    "institution": "Universidad Nacional del Este - Facultad Politécnica",
-    "status": "En curso (9.º semestre)"
-  },
-  "languages": [
-    "Español (Nativo)",
-    "Portugués (Fluido)",
-    "Inglés (Intermedio)"
-  ]
+  "focus": ["SaaS", "Sistemas empresariales", "Automatización de procesos"],
+  "experience": "Desarrollando aplicaciones orientadas a problemas reales"
 }
 ```
 
@@ -50,9 +30,9 @@
 
   | Categoría | Tecnologías |
   |----------|------------|
-  | Backend | <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,nodejs&theme=light"> |
+  | Backend | <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,python,fastapi,nodejs&theme=light"> |
   | Frontend | <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nextjs,tailwind,bootstrap&theme=light"> |
-  | Databases | <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,prisma&theme=light"> |
+  | Databases | <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase&theme=light"> |
   | DevOps & Deployment | <img src="https://skillicons.dev/icons?i=docker,git,github,netlify&theme=light"> |
   | Tools & Build Tools | <img src="https://skillicons.dev/icons?i=postman,vscode,eclipse,vite,astro,bash,powershell&theme=light"> |
   
