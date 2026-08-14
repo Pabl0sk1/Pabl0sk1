@@ -30,7 +30,7 @@
 
   | Categoría | Tecnologías |
   |----------|------------|
-  | Backend | <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,python,fastapi,nodejs&theme=light"> |
+  | Backend | <img src="https://skillicons.dev/icons?i=python,fastapi,php,laravel,java,spring,nodejs&theme=light"> |
   | Frontend | <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nextjs,tailwind,bootstrap&theme=light"> |
   | Databases | <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase&theme=light"> |
   | DevOps & Deployment | <img src="https://skillicons.dev/icons?i=docker,git,github,netlify&theme=light"> |
