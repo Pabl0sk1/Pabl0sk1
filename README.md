@@ -17,7 +17,7 @@
 {
   "role": "Desarrollador Full Stack"
   "email": "pablo.mk.ocampos@gmail.com",
-  "location": "Hernandarias, Alto Paraná, Paraguay",
+  "location": "Alto Paraná, Paraguay",
   "focus": ["SaaS", "Sistemas empresariales", "Automatización de procesos"],
   "experience": "Desarrollando aplicaciones orientadas a problemas reales"
 }
