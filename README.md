@@ -59,7 +59,7 @@
   | **StockPro** | Punto de venta de escritorio, entregado e instalado en cliente. Funciona sin conexión; códigos de barras y gráficos implementados a mano. | Python · Tkinter · SQLite |
   | **BioTech** | ERP modular para entorno agroindustrial, con dashboards y desplegado íntegramente en contenedores. | Java · Spring Boot · PostgreSQL · React · Docker |
   | **Atelier** | Gestión para una ropería: ventas, compras, inventario y alquiler de prendas. | Java · Spring Boot · PostgreSQL · React |
-  | **[Shop Easy](https://shopeasy-app.web.app/)** · [repo](https://github.com/Pabl0sk1/shop-easy) | App móvil de listas de compras con sincronización en tiempo real. | Ionic · Angular · Firebase |
+  | **[Shop Easy](https://shopeasy-app.web.app/)** | App móvil de listas de compras con sincronización en tiempo real. | Ionic · Angular · Firebase |
 
   <sub>Los repositorios de Faro, Timón, StockPro, BioTech y Atelier son privados por acuerdo con los clientes.<br/>Las capturas y el detalle de cada uno están en el <a href="https://portfolio-pabl0sk1.netlify.app/#proyectos">portfolio</a>.</sub>
 
