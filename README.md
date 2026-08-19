@@ -8,7 +8,6 @@
   <br/><br/>
 
   [![Portfolio](https://img.shields.io/badge/Portfolio-portfolio--pabl0sk1-0EA5E9?style=for-the-badge&logo=astro&logoColor=white)](https://portfolio-pabl0sk1.netlify.app)
-  [![CV](https://img.shields.io/badge/CV-Descargar-16A34A?style=for-the-badge&logo=readthedocs&logoColor=white)](https://portfolio-pabl0sk1.netlify.app/cv/Pablo-Ocampos-CV-ES.docx)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-m-ocampos-b48374381/)
 
 </div>
@@ -58,10 +57,13 @@
   | **Timón · Taller** | Gestión para talleres mecánicos: órdenes con flujo de ocho estados, inventario de repuestos, caja diaria y seguimiento público por QR. | Python · FastAPI · PostgreSQL · React · Docker |
   | **StockPro** | Punto de venta de escritorio, entregado e instalado en cliente. Funciona sin conexión; códigos de barras y gráficos implementados a mano. | Python · Tkinter · SQLite |
   | **BioTech** | ERP modular para entorno agroindustrial, con dashboards y desplegado íntegramente en contenedores. | Java · Spring Boot · PostgreSQL · React · Docker |
+  | **Cinemateca** | Catálogo de cine con el censo completo de TMDb —más de 1,2 millones de títulos—, estrenos al día y sala de reproducción de obras de dominio público. La licencia la impone un trigger en la base, no la buena voluntad del código. | Python · FastAPI · PostgreSQL · React · Docker |
+  | **Pulse** | Catálogo musical con reproductor propio, que separa obra, grabación y publicación: créditos completos de cada grabación, formaciones de los grupos y búsqueda por un verso de la letra. | Python · FastAPI · PostgreSQL · React · Docker |
+  | **[Marvel World](https://github.com/Pabl0sk1/marvel-world)** | Enciclopedia del universo Marvel: más de 2.600 personajes con su Power Grid, relaciones dirigidas entre ellos y catálogo cruzado de poderes, equipos y lugares. | Python · FastAPI · PostgreSQL · React · Docker |
   | **Atelier** | Gestión para una ropería: ventas, compras, inventario y alquiler de prendas. | Java · Spring Boot · PostgreSQL · React |
   | **[Shop Easy](https://shopeasy-app.web.app/)** | App móvil de listas de compras con sincronización en tiempo real. | Ionic · Angular · Firebase |
 
-  <sub>Los repositorios de Faro, Timón, StockPro, BioTech y Atelier son privados por acuerdo con los clientes.<br/>Las capturas y el detalle de cada uno están en el <a href="https://portfolio-pabl0sk1.netlify.app/#proyectos">portfolio</a>.</sub>
+  <sub>Los repositorios de Faro, Timón, StockPro, BioTech y Atelier son privados por acuerdo con los clientes. Cinemateca y Pulse, de momento también.<br/>Las capturas y el detalle de cada uno están en el <a href="https://portfolio-pabl0sk1.netlify.app/#proyectos">portfolio</a>.</sub>
 
 </div>
 
