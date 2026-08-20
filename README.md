@@ -63,27 +63,6 @@
 ---
 
 <div align="center">
-  <h2>📊 Actividad</h2>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pabl0sk1&theme=tokyonight" alt="Resumen del perfil de GitHub">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pabl0sk1&theme=tokyonight&utcOffset=-3" alt="Horario de commits">
-</div>
-
----
-
-<div align="center">
-  <h2>📫 Contacto</h2>
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-pablomocampos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-m-ocampos-b48374381/)
-  [![Email](https://img.shields.io/badge/Email-pablo.mk.ocampos%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pablo.mk.ocampos@gmail.com)
-  [![Discord](https://img.shields.io/badge/Discord-pabl0sk1-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/918699279806255165)
-  [![Instagram](https://img.shields.io/badge/Instagram-pablomyo__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pablomyo_/)
-  [![X](https://img.shields.io/badge/X-@pablomyo__-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/pablomyo_)
-
-</div>
-
----
-
-<div align="center">
   <i>💡 "Transformando procesos complejos en soluciones simples y eficientes"</i>
   <p>by Pabl0sk1 ⚡</p>
   <img src="https://raw.githubusercontent.com/Pabl0sk1/Pabl0sk1/output/snake-dark.svg" alt="Animación de la serpiente sobre el gráfico de contribuciones">
