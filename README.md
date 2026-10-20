@@ -4,11 +4,12 @@
   <br/>
   <h1>👋 Hola! Soy Pablo M. Ocampos</h1>
   <p>💻 Desarrollador Full Stack · Cofundador de ELBRUX · Alto Paraná, Paraguay</p>
-  <img src="https://readme-typing-svg.demolab.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;Python+%2B+FastAPI;React+%2B+PostgreSQL;Sistemas+empresariales+en+produccion;Automatizacion+de+procesos" alt="Full Stack Developer, Python + FastAPI, React + PostgreSQL, sistemas empresariales en producción, automatización de procesos">
+  <img src="https://readme-typing-svg.demolab.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;Python+%2B+FastAPI;React+%2B+PostgreSQL;Sistemas+empresariales+en+produccion;Espa%C3%B1ol+%C2%B7+English+%C2%B7+Portugu%C3%AAs" alt="Full Stack Developer, Python + FastAPI, React + PostgreSQL, sistemas empresariales en producción, español, inglés y portugués">
   <br/><br/>
 
   [![Portfolio](https://img.shields.io/badge/Portfolio-portfolio--pabl0sk1-0EA5E9?style=for-the-badge&logo=astro&logoColor=white)](https://portfolio-pabl0sk1.netlify.app)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-m-ocampos-b48374381/)
+  [![Disponible](https://img.shields.io/badge/Disponible-Remoto_(GMT--3)-10B981?style=for-the-badge)](https://portfolio-pabl0sk1.netlify.app/#contactar)
 
 </div>
 
@@ -16,7 +17,7 @@
 
 <div align="center">
   <h2>🚀 Sobre mí</h2>
-  <blockquote align="left">Desarrollador de software con experiencia en entornos productivos. Cofundé <b>ELBRUX</b>, un emprendimiento de desarrollo a medida para pymes, donde llevamos el producto de punta a punta: desde el relevamiento con el cliente hasta el despliegue y el soporte. Construyo sistemas empresariales multi-tenant, integraciones entre plataformas y automatizaciones que hoy corren en operaciones reales de negocio.</blockquote>
+  <blockquote align="left">Desarrollador Full Stack con más de 2 años de experiencia profesional y programando desde 2020. Construyo <b>sistemas de gestión para empresas</b>: la clase de software que un equipo usa todos los días para trabajar, con <b>Python y FastAPI</b> en el backend y <b>React, PostgreSQL y Docker</b> en el resto. Cofundé <b>ELBRUX</b> junto a un socio, un emprendimiento de software a medida para pymes donde llevamos cada producto de punta a punta, desde el relevamiento con el cliente hasta el despliegue y el soporte, con sistemas que hoy corren en producción.</blockquote>
 </div>
 
 ```json
@@ -24,7 +25,8 @@
   "rol": "Cofundador y Desarrollador Full Stack · ELBRUX",
   "email": "pablo.mk.ocampos@gmail.com",
   "ubicacion": "Alto Paraná, Paraguay",
-  "modalidad": ["Remoto", "Híbrido"],
+  "modalidad": ["Remoto (GMT-3)", "Presencial en Alto Paraná"],
+  "idiomas": ["Español", "Português", "English"],
   "stack": ["Python", "FastAPI", "React", "PostgreSQL", "Docker"],
   "foco": ["SaaS multi-tenant", "Sistemas empresariales", "Automatización de procesos"],
   "enProduccion": true
@@ -40,9 +42,8 @@
   | Nivel | Tecnologías |
   |---|---|
   | **Stack principal** | <img src="https://skillicons.dev/icons?i=python,fastapi,react,tailwind,nodejs,postgres,docker,git&theme=light" alt="Python, FastAPI, React, Tailwind, Node.js, PostgreSQL, Docker, Git"> |
-  | **También trabajo con** | <img src="https://skillicons.dev/icons?i=java,spring,php,mysql,angular,bootstrap,ts,js,html,css,sqlite,firebase&theme=light" alt="Java, Spring Boot, PHP, MySQL, Angular, Bootstrap, TypeScript, JavaScript, HTML, CSS, SQLite, Firebase"> |
-  | **Conozco, en aprendizaje** | <img src="https://skillicons.dev/icons?i=laravel,nextjs&theme=light" alt="Laravel, Next.js"> |
-  | **Herramientas** | <img src="https://skillicons.dev/icons?i=postman,vscode,eclipse,vite,astro,bash,powershell,github,netlify&theme=light" alt="Postman, VS Code, Eclipse, Vite, Astro, Bash, PowerShell, GitHub, Netlify"> |
+  | **También trabajo con** | <img src="https://skillicons.dev/icons?i=java,kotlin,spring,mysql,angular,bootstrap,ts,js,html,css,sqlite,firebase,nextjs,prisma,opencv&theme=light" alt="Java, Kotlin, Spring Boot, MySQL, Angular, Bootstrap, TypeScript, JavaScript, HTML, CSS, SQLite, Firebase, Next.js, Prisma, OpenCV"><br/><img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" alt="Fastify"> <img src="https://img.shields.io/badge/REST_API-0EA5E9?style=flat-square" alt="REST API"> <img src="https://img.shields.io/badge/JWT-D63AFF?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"> <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=mediapipe&logoColor=white" alt="MediaPipe"> |
+  | **Herramientas** | <img src="https://skillicons.dev/icons?i=github,postman,vscode,eclipse,vite,astro,bash,powershell,netlify&theme=light" alt="GitHub, Postman, VS Code, Eclipse, Vite, Astro, Bash, PowerShell, Netlify"><br/><img src="https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white" alt="ClickUp"> <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude"> <img src="https://img.shields.io/badge/Oracle_Cloud-C74634?style=flat-square" alt="Oracle Cloud"> |
 
 </div>
 
@@ -53,7 +54,7 @@
 
   | Área | Descripción |
   |---|---|
-  | 🏢 Sistemas empresariales | Aplicaciones multi-tenant tipo ERP y SaaS para gestión y operación |
+  | 🏢 Sistemas empresariales | Aplicaciones multi-tenant tipo ERP y SaaS, con el aislamiento entre empresas en la base de datos |
   | 🔗 Integración de APIs | Conexión entre servicios, sistemas contables y plataformas de terceros |
   | ⚙️ Automatización de procesos | Flujos de trabajo, sincronización de datos y tareas programadas |
   | 📊 Datos y reportes | Métricas operativas, dashboards y análisis para tomar decisiones |
